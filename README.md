@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
 
 ## 音乐 🎵
-<a href="https://www.music.163.com/?from=ly"><img src="src=".github/109951164111703663.jpg" width="224"/></a>
+<a https://www.jetbrains.com/?from=Netch"><img src="src=".github/109951164111703663.jpg" width="224"/></a>
 
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
