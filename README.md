@@ -1,11 +1,11 @@
-
+# 关于 RadioChatGroup-subscribe
 [![Platform](https://img.shields.io/badge/platform-windows-orange.svg)](https://github.com/NetchX/Netch)
 [![Version](https://img.shields.io/github/v/release/NetchX/Netch)](https://github.com/NetchX/Netch/releases)
 [![Downloads](https://img.shields.io/github/downloads/NetchX/Netch/total.svg)](https://github.com/NetchX/Netch/releases)
 [![Netch CI](https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg)](https://github.com/NetchX/Netch/actions)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-
-# 关于 RadioChatGroup-subscribe
+[![](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/Netch) [![](https://img.shields.io/badge/Telegram-Group-green)](https://t.me/Netch_Discuss_Group) 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://netch.org/)
 
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
@@ -13,7 +13,6 @@
 - 所以使用GitHub托管，所有人都可以无条件使用
 - *但务必遵守国家相关条文规定，一切行为造成的法律和责任后果仅由当事人承担
 <a href="https://www.jetbrains.com/?from=Netch"><img src="../.github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
-
 
 ## 请注意!不要在代理通讯被禁止使用的国家使用本服务.
 - 本服务受制于美国法律，其他国家的法律不受我们关注也不承担责任。
