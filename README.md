@@ -1,11 +1,11 @@
 # 关于 RadioChatGroup-subscribe
-[![Platform](https://img.shields.io/badge/platform-windows-orange.svg)](https://github.com/NetchX/Netch)
-[![Version](https://img.shields.io/github/v/release/NetchX/Netch)](https://github.com/NetchX/Netch/releases)
-[![Downloads](https://img.shields.io/github/downloads/NetchX/Netch/total.svg)](https://github.com/NetchX/Netch/releases)
-[![Netch CI](https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg)](https://github.com/NetchX/Netch/actions)
+[![Platform](https://img.shields.io/badge/platform-windows-orange.svg)](https://github.com/RadioChatGroup-Link/)
+[![Version](https://img.shields.io/github/v/release/NetchX/Netch)](https://github.com/RadioChatGroup-Link/releases)
+[![Downloads](https://img.shields.io/github/downloads/NetchX/Netch/total.svg)](https://github.com/RadioChatGroup-Link/releases)
+[![Netch CI](https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg)](https://github.com/RadioChatGroup-Link/actions)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-[![](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/Netch) [![](https://img.shields.io/badge/Telegram-Group-green)](https://t.me/Netch_Discuss_Group) 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://netch.org/)
+[![](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/Netch) [![](https://img.shields.io/badge/Telegram-Group-green)](https://https://t.me/RadioChatGroup) 
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
 
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
