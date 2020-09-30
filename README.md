@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
 
 ## 音乐 🎵
-<a href="https://www.jetbrains.com/?from=Netch"><img src=".github/109951164111703663.jpg" alt="JetBrains" width="200"/></a>
+<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src=".github/194246-.jpg" alt="红 - 告五人" width="310"/></a>
 
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
@@ -27,6 +27,8 @@
 - 用户将完全承拍任何损失和使用本软件及服务导致的责任，无论是在美国领土以内往是以外。
 如果你不同意也不理解上述警告，请不要使用本服务。
 
+## 播放器
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1368756097&auto=1&height=66"></iframe>
 
 
 
