@@ -1,3 +1,10 @@
+
+[![Platform](https://img.shields.io/badge/platform-windows-orange.svg)](https://github.com/NetchX/Netch)
+[![Version](https://img.shields.io/github/v/release/NetchX/Netch)](https://github.com/NetchX/Netch/releases)
+[![Downloads](https://img.shields.io/github/downloads/NetchX/Netch/total.svg)](https://github.com/NetchX/Netch/releases)
+[![Netch CI](https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg)](https://github.com/NetchX/Netch/actions)
+[![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+
 # 关于 RadioChatGroup-subscribe
 
 ## 简介
@@ -16,15 +23,6 @@
 - 用户将完全承拍任何损失和使用本软件及服务导致的责任，无论是在美国领土以内往是以外。
 如果你不同意也不理解上述警告，请不要使用本服务。
 
-＃Netch
-[！[平台]（https://img.shields.io/badge/platform-windows-orange.svg）]（https://github.com/NetchX/Netch）
-[！[版本]（https://img.shields.io/github/v/release/NetchX/Netch）]（https://github.com/NetchX/Netch/releases）
-[！[下载]（https://img.shields.io/github/downloads/NetchX/Netch/total.svg）]（https://github.com/NetchX/Netch/releases）
-[！[Netch CI]（https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg）]（https://github.com/NetchX/Netch/actions）
-[！[许可证]（https://img.shields.io/badge/license-MIT-yellow.svg）]（许可证）
-[！[]（https://img.shields.io/badge/Telegram-Channel-blue）]（https://t.me/Netch）[！[]（https://img.shields.io/徽章/Telegram-Group-green)](https://t.me/Netch_Discuss_Group） 
-[！[网站]（https://img.shields.io/website?url=https%3A%2F%2Fnetch.org）]（https://netch.org/）
 
-[中文说明]（/ docs / README.zh-CN.md）
 
-[FAQ /常见问题]（https://netch.org/#/docs/zh-CN/faq）
+
