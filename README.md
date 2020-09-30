@@ -12,7 +12,9 @@
 - 因为需要防止失恋❤
 - 所以使用GitHub托管，所有人都可以无条件使用
 - *但务必遵守国家相关条文规定，一切行为造成的法律和责任后果仅由当事人承担
-<a href="https://www.jetbrains.com/?from=Netch"><img src="../.github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
+
+## Sponsor
+<a href="https://www.jetbrains.com/?from=Netch"><img src=".github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
 
 ## 请注意!不要在代理通讯被禁止使用的国家使用本服务.
 - 本服务受制于美国法律，其他国家的法律不受我们关注也不承担责任。
