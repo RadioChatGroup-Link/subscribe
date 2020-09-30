@@ -1,4 +1,11 @@
 # 关于 RadioChatGroup-subscribe
+[！[平台]（https://img.shields.io/badge/platform-windows-orange.svg）]（https://github.com/NetchX/Netch）
+[！[版本]（https://img.shields.io/github/v/release/NetchX/Netch）]（https://github.com/NetchX/Netch/releases）
+[！[下载]（https://img.shields.io/github/downloads/NetchX/Netch/total.svg）]（https://github.com/NetchX/Netch/releases）
+[！[Netch CI]（https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg）]（https://github.com/NetchX/Netch/actions）
+[！[许可证]（https://img.shields.io/badge/license-MIT-yellow.svg）]（许可证）
+[！[]（https://img.shields.io/badge/Telegram-Channel-blue）]（https://t.me/Netch）[！[]（https://img.shields.io/徽章/Telegram-Group-green)](https://t.me/Netch_Discuss_Group） 
+[！[网站]（https://img.shields.io/website?url=https%3A%2F%2Fnetch.org）]（https://netch.org/）
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
 - 因为需要防止失恋❤
