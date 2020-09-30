@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
 
 ## 音乐 🎵
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1383271884&auto=1&height=66"></iframe>
+<p>http://48.108.99.129/music/banmabanma.mp3</p>
 
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
