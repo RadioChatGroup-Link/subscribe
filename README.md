@@ -12,7 +12,7 @@
 [![codecov.io](https://codecov.io/github/AFNetworking/AFNetworking/coverage.svg?branch=master)](https://codecov.io/github/AFNetworking/AFNetworking?branch=master)
 ![Website](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%86%E2%98%86-%23c0c0c0)
 <p align="center">    |
-<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://cdn.albumoftheyear.org/album/194246-.jpg" alt="红 - 告五人" width="310"/></a>
+<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://cdn.albumoftheyear.org/album/194246-.jpg" alt="红 - 告五人" width="520"/></a>
 |
   </p>.
 
