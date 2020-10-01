@@ -1,14 +1,14 @@
 # 关于 RadioChatGroup-subscribe
 [![Platform](https://img.shields.io/badge/platform-windows-orange.svg)](https://github.com/RadioChatGroup-Link/)
-[![Version](https://img.shields.io/github/v/release/NetchX/Netch)](https://github.com/RadioChatGroup-Link/releases)
-[![Downloads](https://img.shields.io/github/downloads/NetchX/Netch/total.svg)](https://github.com/RadioChatGroup-Link/releases)
+[![Version](https://img.shields.io/github/v/release/RCG/Netch)](https://github.com/RadioChatGroup-Link/releases)
+[![Downloads](https://img.shields.io/github/downloads/RCG/Netch/total.svg)](https://github.com/RadioChatGroup-Link/releases)
 [![RCG CI](https://github.com/NetchX/Netch/workflows/Netch%20CI/badge.svg)](https://github.com/RadioChatGroup-Link/actions)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 [![](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/RadioChatGroupLink) [![](https://img.shields.io/badge/Telegram-Group-green)](https://t.me/RadioChatGroup) 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
 
 <p align="center">    |
-<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://github.com/RadioChatGroup-Link/subscribe/blob/master/.github/194246-.jpg" alt="红 - 告五人" width="310"/></a>
+<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://cdn.albumoftheyear.org/album/194246-.jpg" alt="红 - 告五人" width="310"/></a>
 |
   </p>.
 
