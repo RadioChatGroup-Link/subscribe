@@ -7,8 +7,9 @@
 [![](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/RadioChatGroupLink) [![](https://img.shields.io/badge/Telegram-Group-green)](https://t.me/RadioChatGroup) 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
 
-## 音乐 🎵
+<p align="center">## 音乐 🎵
 <a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src=".github/194246-.jpg" alt="红 - 告五人" width="310"/></a>
+  </p>.
 
 ## 简介
 - 这是RadioChatGroup为你准备的备用临时暂存节点
