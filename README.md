@@ -15,7 +15,7 @@
 <p align="center">    |
 <a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://cdn.albumoftheyear.org/album/194246-.jpg" alt="红 - 告五人" width="520"/></a>
 |
-  </p>.
+  </p>
 
 ## 简介
 - **这是RadioChatGroup为你准备的备用临时暂存节点**
