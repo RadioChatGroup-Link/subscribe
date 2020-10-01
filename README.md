@@ -1,6 +1,6 @@
 # 关于 RadioChatGroup-subscribe
-[![Platform](https://img.shields.io/cocoapods/p/windows?label=windows&logo=windows&style=flat-square)](https://github.com/RadioChatGroup-Link/)
-[![Version](https://img.shields.io/github/v/release/RCG/RCG)](https://github.com/RadioChatGroup-Link/releases)
+[![Platform](https://img.shields.io/cocoapods/p/AFNetworking?color=lightgrey&label=Apple&logo=Apple&style=flat-square)](https://github.com/RadioChatGroup-Link/)
+[![Version](https://img.shields.io/badge/RCG-1.0-light.svg)](https://github.com/RadioChatGroup-Link/releases)
 [![Downloads](https://img.shields.io/github/downloads/RCG/RCG/total.svg)](https://github.com/RadioChatGroup-Link/releases)
 [![RCG CI](https://github.com/RCG/Netch/workflows/Netch%20CI/badge.svg)](https://github.com/RadioChatGroup-Link/actions)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
