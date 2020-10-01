@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/RCG-1.0-light.svg)](https://github.com/RadioChatGroup-Link/releases)
 [![Downloads](https://img.shields.io/github/downloads/RCG/RCG/total.svg)](https://github.com/RadioChatGroup-Link/releases)
 [![RCG CI](https://github.com/onevcat/kingfisher/workflows/build/badge.svg?branch=master)](https://github.com/RadioChatGroup-Link/actions)
-(https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
+![Version](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 [![](https://img.shields.io/badge/Telegram-Channel-blue)](https://t.me/RadioChatGroupLink) [![](https://img.shields.io/badge/Telegram-Group-green)](https://t.me/RadioChatGroup) 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fnetch.org)](https://RadioChatGroup.org/)
