@@ -1,4 +1,10 @@
 # 关于 RadioChatGroup-subscribe
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/uses-html.svg)
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
+![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 [![Platform](https://img.shields.io/cocoapods/p/AFNetworking?color=lightgrey&label=Apple&logo=Apple&style=flat-square)](https://github.com/RadioChatGroup-Link/)
 [![Platform](https://img.shields.io/conda/pn/conda-forge/python?label=windows&logo=windows&logoColor=bule&style=flat-square)](https://github.com/RadioChatGroup-Link/)
 [![Version](https://img.shields.io/badge/RCG-1.0-light.svg)](https://github.com/RadioChatGroup-Link/releases)
