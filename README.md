@@ -27,7 +27,7 @@
 - **这是RadioChatGroup为你准备的备用临时暂存节点**
 - **因为需要防止失恋❤**
 - **所以使用GitHub托管，所有人都可以无条件使用**
--- *但务必遵守国家相关条文规定，一切行为造成的法律和责任后果仅由当事人承担* 
+- *但务必遵守国家相关条文规定，一切行为造成的法律和责任后果仅由当事人承担* 
 
 ## Sponsor
 <a href="https://www.jetbrains.com/?from=Netch"><img src=".github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
@@ -39,7 +39,7 @@
 - 如果用户在一个_特定的国家_使用本服务，损害公务人员的权利，服务或软件的开发者将永远不会负责恢复或补偿损害或刑事责任。
 - 使用本软件和服务，用户有自己的义务必须遵守所有相关的法律和规则。
 - 用户将完全承拍任何损失和使用本软件及服务导致的责任，无论是在美国领土以内往是以外。
-**_如果你不同意也不理解上述警告，请不要使用本服务。_**
+- **_如果你不同意也不理解上述警告，请不要使用本服务。_**
 ## 播放器
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1368756097&auto=1&height=66"></iframe>
 
