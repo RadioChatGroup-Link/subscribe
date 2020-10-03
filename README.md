@@ -35,7 +35,7 @@
 [![codecov.io](https://codecov.io/github/AFNetworking/AFNetworking/coverage.svg?branch=master)](https://codecov.io/github/AFNetworking/AFNetworking?branch=master)
 ![Website](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-%23c0c0c0)
 <p align="center">    🌼
-<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://cdn.albumoftheyear.org/album/194246-.jpg" alt="红 - 告五人" width="520"/></a>
+<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://raw.githubusercontent.com/RadioChatGroup-Link/subscribe/master/.github/194246-.jpg" alt="红 - 告五人" width="520"/></a>
 🌦
   </p>
 
@@ -46,7 +46,7 @@
 - *但务必遵守国家相关条文规定，一切行为造成的法律和责任后果仅由当事人承担* 
 
 ## Sponsor
-<a href="https://www.jetbrains.com/?from=Netch"><img src=".github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
+<a href="https://www.jetbrains.com/?from=Netch"><img src="https://raw.githubusercontent.com/RadioChatGroup-Link/subscribe/7d77d1f16ea9813822892a4ce7068e0cd1f909eb/.github/jetbrains-variant-4.svg" alt="JetBrains" width="200"/></a>
 
 ## 请注意!不要在代理通讯被禁止使用的国家使用本服务.
   
