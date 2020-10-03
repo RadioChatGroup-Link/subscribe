@@ -66,3 +66,6 @@
 
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Ehco1996/django-sspanel.svg)](https://starchart.cc/Ehco1996/django-sspanel)
