@@ -210,19 +210,19 @@ testBox.add("jQuery").remove("jQuery");
 
 Image:
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://URL)
 
 > Follow your heart.
 
-![](https://pandao.github.io/editor.md/examples/images/8.jpg)
+![](https://URL)
 
-> 图为：厦门白城沙滩
+> 图为：error
 
 图片加链接 (Image + Link)：
 
-[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "李健首张专辑《似水流年》封面")
+[![](https://URL)](URL "name")
 
-> 图为：李健首张专辑《似水流年》封面
+> 图为：error
                 
 ----
 
