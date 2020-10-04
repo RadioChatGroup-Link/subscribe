@@ -8,7 +8,7 @@
 - 为此使用Github进行全部的家里和托管，理论上对所有人开放切无条件使用
 - *务必遵守国家相关条文规定，一切行为造成的法律和责任后果仅由当事人承担*
 
-<p align="center"><img src="https://radiochatgroup-link.github.io/img/avater/yakasukanakata.jpg" alt="华立集团COO yakasukanakata" width="146"/></a>
+<p align="center"><img src="https://radiochatgroup-link.github.io/img/avater/yakasukanakata.jpg" alt="华立集团COO yakasukanakata" width="146"/></p>
 
 
 # 请注意!不要在代理通讯被禁止使用的国家使用本服务.
