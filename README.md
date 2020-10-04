@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://radiochatgroup-link.github.io/img/avater/yakasukanakata.jpg" alt="华立集团COO yakasukanakata" width="146"/>
+<p align="center"><img src="https://radiochatgroup-link.github.io/img/avater/yakasukanakata.jpg" alt="华立集团COO yakasukanakata" width="146"/><华立集团COO yakasukanakata
 
 
 
