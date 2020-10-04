@@ -25,7 +25,7 @@
 
 
 <p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" 
+    <img width="100px" src="
 ![](https://forthebadge.com/images/badges/made-with-javascript.svg)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
