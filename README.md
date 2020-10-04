@@ -398,7 +398,7 @@ Andrew->>China: I am good thanks!
 
 ### End
 <p align="center">
- <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+ <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" align="center" alt="machine" />
+ <h2 align="center">Radio Chat Group</h2>
+ <p align="center">Get dynamically generated Radio Chat Group severs use on your proxy tools</p>
 </p>
