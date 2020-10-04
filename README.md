@@ -25,11 +25,7 @@
 
 
 <p align="center">
-    <img width="100px" src="https://forthebadge.com/images/badges/made-with-javascript.svg" 
-src="https://forthebadge.com/images/badges/open-source.svg"
-src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"
-src="https://forthebadge.com/images/badges/made-with-python.svg"
-src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" src="https://forthebadge.com/images/badges/open-source.svg"src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg"src="https://forthebadge.com/images/badges/made-with-python.svg"src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
 
 
 
