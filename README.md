@@ -36,7 +36,8 @@
 
 
 
-![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/powered-by-electricity.svg)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)](https://forthebadge.com)
@@ -47,23 +48,28 @@
 
 
 
-![](https://forthebadge.com/images/badges/makes-people-smile.svg)
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/makes-people-smile.svg)
 ![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/ages-18.svg)](https://forthebadge.com)
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/ages-18.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/compatibility-ie-6.svg)](https://forthebadge.com)
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/compatibility-ie-6.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 
 
-![](https://forthebadge.com/images/badges/uses-html.svg)
+<p align="center">
+ <img src="https://forthebadge.com/images/badges/uses-html.svg)
 
 
 
