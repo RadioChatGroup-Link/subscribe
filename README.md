@@ -1,9 +1,25 @@
+<<<<<<< HEAD
 </p>
 </p>
 </p>
 </p>
 </p>
 <p align="center"><img src="https://radiochatgroup-link.github.io/img/avater/yakasukanakata.jpg" alt="华立集团COO yakasukanakata" width="320"/></a>
+=======
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+>>>>>>> b6be288a0be69b7c87ac69d56d1222b88b839ed4
 ### 简介
 
 - 这里是我们RadioChatGroup所为你准备的临时暂存节点
@@ -19,21 +35,17 @@
 - 用户将完全承拍任何损失和使用本软件及服务导致的责任，无论是在美国领土以内往是以外。
 
 - **_如果你不同意也不理解上述警告，请不要使用本服务。_**
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ![](URL)
 <p align="center">🍁
 🌼<a href="https://music.163.com/outchain/player?type=2&id=1368756097"><img src="https://radiochatgroup-link.github.io/Icon/github%20img/55.gif" alt="红 - 告五人" width="520"/></a>🌻
