@@ -1,0 +1,47 @@
+Proxy:
+  - {name: 剩余流量：300GB, server: fanfanyun.xyz, port: 10086, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 0, cipher: auto, tls: false}
+  - {name: 过期时间：2020-12-24, server: fanfanyun.xyz, port: 10086, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇹🇼 台湾原生 01 | 广东中继 | Netflix&动画疯, server: gd.yd.fanfanyun1.club, port: 41005, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇹🇼 台湾原生 02 | 广东中继 | Netflix&动画疯, server: gd.yd.fanfanyun1.club, port: 41006, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: "🇸🇬 新加坡 02 | 广东中继 ", server: gd.yd.fanfanyun1.club, port: 41008, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇸🇬 新加坡原生 01 | 广东中继 | Netflix, server: gd.yd.fanfanyun1.club, port: 41007, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇯🇵 日本03 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41013, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇯🇵 日本原生NHN 01 | 长沙中继 | Netflix, server: cs.cu.fanfanyun1.club, port: 21003, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇯🇵 日本原生NHN 02 | 长沙中继 | Netflix, server: cs.cu.fanfanyun1.club, port: 21004, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇺🇲 美国01 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41012, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇰🇷 韩国 01 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41009, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港01 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41001, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港02 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41002, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港03 | 电信直连 | AGA专线 | x0.3, server: tcp.aga01.fanfanyun1.club, port: 12443, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: "🇭🇰 香港04 | 电信直连 | AGA专线 | x0.3\t", server: tcp.aga02.fanfanyun1.club, port: 12443, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港05 | 电信直连 | AGA专线 | x0.3, server: tcp.aga01.fanfanyun1.club, port: 12543, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港06 | 电信直连 | AGA专线 | x0.3, server: tcp.aga02.fanfanyun1.club, port: 12543, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港07 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41010, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 🇭🇰 香港08 | 广东中继, server: gd.yd.fanfanyun1.club, port: 41011, type: vmess, uuid: e6c0aafd-5810-3e5c-b141-8970bba39515, alterId: 2, cipher: auto, tls: true}
+  - {name: 官网 swgj.xyz, server: 52yun.pw, port: 10086, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 0, cipher: auto, tls: false}
+  - {name: 剩余流量：198.69GB, server: 52yun.pw, port: 10086, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 0, cipher: auto, tls: false}
+  - {name: 过期时间：2020-12-30, server: 52yun.pw, port: 10086, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 0, cipher: auto, tls: false}
+  - {name: "1[V1] 新加坡 AGA 1 (电信强力推荐)", server: sgaga.52node.xyz, port: 10001, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "1[V1] 香港 AGA 1 (电信强力推荐)", server: agahk.52node.xyz, port: 10002, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "1[V2] 日本 AGA 2 (强力推荐)", server: agajp.52node.xyz, port: 10001, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "1[V2] 美国 AGA 1 (强力推荐)", server: agaus.52node.xyz, port: 10000, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 1", server: 129.226.195.62, port: 10000, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 2", server: 150.109.18.209, port: 10000, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 3", server: gz.52node.xyz, port: 28019, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 AWS 1", server: gz.52node.xyz, port: 28011, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 AWS 2", server: gz.52node.xyz, port: 28012, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 DO 1", server: gz.52node.xyz, port: 28017, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 DO 2", server: gz.52node.xyz, port: 28018, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 新加坡 DO 4", server: gz.52node.xyz, port: 28020, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 日本 1 ", server: gz.52node.xyz, port: 28022, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 日本 3 TC2", server: lt.52node.xyz, port: 28014, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 日本 4 TC", server: lt.52node.xyz, port: 28013, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 法国 1", server: gz.52node.xyz, port: 28016, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 美国 2", server: 212.95.135.51, port: 22009, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 香港 2", server: 101.32.184.114, port: 10000, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: "[V1] 香港 3", server: 124.156.147.19, port: 10000, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: 俄罗斯 1, server: runat.52node.xyz, port: 22623, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: 俄罗斯 2, server: runat.52node.xyz, port: 22624, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+  - {name: 迪拜, server: gz.52node.xyz, port: 28023, type: vmess, uuid: 9927f31d-a134-3ce9-b9df-2a8ffb52bb6f, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: hk.jd.com}}
+Proxy Group: ~
+Rule:
